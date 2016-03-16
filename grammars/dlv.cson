@@ -16,6 +16,6 @@
   }
   {
     'name': 'entity.name.literal.dlv'
-    'match': '((\w.+)\(.+)'
+    'match': '((\w.+)(\(.+))'
   }
 ]
