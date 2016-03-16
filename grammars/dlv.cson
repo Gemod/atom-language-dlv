@@ -4,18 +4,17 @@
 'fileTypes': [
   "dlv"
 ]
+'scopeName': 'source.dlv'
 'patterns': [
   {
     'name': 'comment.line.percentage.dlv'
     'match': '((\%).+)'
   }
+    'name': 'constant.other.dlv'
+    'match': '((#).+)'
+  }
+  {
+    'name': 'entity.name.literal.dlv'
+    'match': '(\w+\(.+)'
+  }
 ]
-'scopeName': 'source.dlv'
-'repository':
-  'comment':
-    'captures':
-      '1':
-        'name': 'comment.line.number-sign.generic-config'
-      '2':
-        'name': 'punctuation.definition.comment.generic-config'
-    'match': '((#).*$\\n?)|((;).*$\\n?)'
