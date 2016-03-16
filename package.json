@@ -1,7 +1,7 @@
 {
   "name": "language-dlv",
   "version": "0.4.1",
-  "description": "DLV, disjunctive programming  language package",
+  "description": "Provides basic syntax highlighting for DLV language",
   "keywords": [
     "language",
     "grammar",

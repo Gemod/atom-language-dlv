@@ -11,11 +11,11 @@
     'match': '((\%).+)'
   }
   {
-    'name': 'constant.other.dlv'
+    'name': 'constant.dlv'
     'match': '((#).+)'
   }
   {
     'name': 'entity.name.literal.dlv'
-    'match': '(\w+\(.+)'
+    'match': '(\w.+\(.+)'
   }
 ]
