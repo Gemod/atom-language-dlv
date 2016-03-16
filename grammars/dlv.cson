@@ -8,7 +8,7 @@
 'patterns': [
   {
     'name': 'comment.line.percentage.dlv'
-    'match': '((\%).+)'
+    'match': '((%).+)'
   }
   {
     'name': 'constant.dlv'
@@ -16,6 +16,6 @@
   }
   {
     'name': 'entity.name.literal.dlv'
-    'match': '((\w.+)(\(.+))'
+    'match': '((.+[(].+))'
   }
 ]
