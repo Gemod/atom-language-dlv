@@ -8,11 +8,15 @@
 ]
 'patterns': [
   {
-    'name': 'comment'
-    'match': '/\%/'
+    'name': 'comment dlv'
+    'match': '/\%.+/'
   },
   {
-    'name': 'literal'
-    'match': '/[\w]+\(/'
+    'name': 'const dlv'
+    'match': '/#.+/'
+  },
+  {
+    'name': 'literal dlv'
+    'match': '/\w+\(.+/'
   }
 ]
