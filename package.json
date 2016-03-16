@@ -4,10 +4,11 @@
   "description": "DLV, disjunctive programming  language package",
   "keywords": [
     "language",
-    "grammar"
+    "grammar",
+    "dlv"
   ],
-  "repository": "https://github.com/atom/language-dlv",
-  "license": "MIT",
+  "repository": "https://github.com/thoniorf/atom-language-dlv",
+  "license": "GPL-3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }
