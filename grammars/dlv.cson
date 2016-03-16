@@ -8,15 +8,15 @@
 ]
 'patterns': [
   {
-    'name': 'comment.dlv'
+    'name': 'comment.line.percentage.dlv'
     'match': '/\%.+/'
   },
   {
-    'name': 'const.dlv'
+    'name': 'constant.other.dlv'
     'match': '/#.+/'
   },
   {
-    'name': 'literal.dlv'
+    'name': 'entity.name.literal.dlv'
     'match': '/\w+\(.+/'
   }
 ]
