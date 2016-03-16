@@ -1,6 +1,6 @@
 {
   "name": "language-dlv",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "DLV, disjunctive programming  language package",
   "keywords": [
     "language",
