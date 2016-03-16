@@ -4,17 +4,16 @@
 'scopeName': 'source.dlv'
 'name': 'language-dlv'
 'fileTypes': [
-  'dlv'
 ]
 'patterns': [
   {
     'name': 'comment.line.percentage.dlv'
     'match': '/\%.+/'
-  },
+  }
   {
     'name': 'constant.other.dlv'
     'match': '/#.+/'
-  },
+  }
   {
     'name': 'entity.name.literal.dlv'
     'match': '/\w+\(.+/'
