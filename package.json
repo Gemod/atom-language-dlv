@@ -1,0 +1,14 @@
+{
+  "name": "language-dlv",
+  "version": "0.0.1",
+  "description": "DLV, disjunctive programming  language package",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/atom/language-dlv",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
