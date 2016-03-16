@@ -10,6 +10,7 @@
     'name': 'comment.line.percentage.dlv'
     'match': '((\%).+)'
   }
+  {
     'name': 'constant.other.dlv'
     'match': '((#).+)'
   }
