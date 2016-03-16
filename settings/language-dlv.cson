@@ -3,4 +3,4 @@
 
 '.source.dlv':
   'editor':
-    'commentStart': '% '
+    'commentStart': '%'
