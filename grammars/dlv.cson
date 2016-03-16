@@ -2,7 +2,7 @@
 #   - http://manual.macromates.com/en/language_grammars
 
 'scopeName': 'source.dlv'
-'name': 'language-dlv'
+'name': 'DLV'
 'fileTypes': [
 ]
 'patterns': [
