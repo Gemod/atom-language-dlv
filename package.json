@@ -1,6 +1,6 @@
 {
   "name": "language-dlv",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "description": "Provides basic syntax highlighting for DLV language",
   "keywords": [
     "language",
